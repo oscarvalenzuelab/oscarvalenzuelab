@@ -1,14 +1,24 @@
-## Hi there 👋
+## Hi/Hola!
 
-### Hi there 👋, my name is Oscar
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Oscar, also known as AlKamod.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Principal Open Source Engineer at Amazon with over 20 years of experience in open source 
+compliance, tooling, and community building. I lead strategy for Amazon's Open Source License Compliance 
+team, scaling compliance processes company-wide while driving adoption of industry standards and best 
+practices.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+You may know me from my open source compliance work, my advocacy with FSF LA for Free/Libre Software, or 
+my role as a Yocto Project board member. My background spans software engineering, security, and 
+electronic engineering. The latter gave me deep expertise in compliance for consumer devices and 
+connected me to the GPL compliance community that shaped my career.
 
-- 🔭 I’m currently working on this page. 
+For those who've known me longer, I've gone by Andrew and Andres, but most know me simply as Oscar.
+
+Skills: PYTHON / JAVA / PERL / Linux / Yocto / ASM / GCC / Compilers / Legal / SBOM / AI / SDPX / CycloneDX
+
+- 🔭 I’m currently working a few projects you may find interesting:
+  - [Open Source License Compliance](https://github.com/topics/copycatcodedefender)
+  - [Research around AI, Models, and Supply Chain tooling](https://ovalenzuela.com/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oscarvalenzuelab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscarvalenzuelab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ovalenzuela.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg' alt='pypi' height='40'>](https://pypi.org/user/alkamod/)  
