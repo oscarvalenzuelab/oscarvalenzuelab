@@ -18,7 +18,7 @@ For those who've known me longer, I've gone by Andrew and Andres, but most know 
 Skills: PYTHON / JAVA / PERL / Linux / Yocto / ASM / GCC / Compilers / Legal / SBOM / AI / SDPX / CycloneDX
 
 
-- 🔭 I’m currently working a few projects you may find interesting:
-  - [Open Source License Compliance](https://github.com/topics/copycatcodedefender)
+- 🔭 I’m currently working on a few projects you may find interesting:
+  - [Open Source License Compliance](https://github.com/SemClone)
   - [Research around AI, Models, and Supply Chain tooling](https://ovalenzuela.com/)
 
