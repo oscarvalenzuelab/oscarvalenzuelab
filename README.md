@@ -19,6 +19,8 @@ Skills: PYTHON / JAVA / PERL / Linux / Yocto / ASM / GCC / Compilers / Legal / S
 
 
 - 🔭 I’m currently working on a few projects you may find interesting:
-  - [Open Source License Compliance](https://github.com/SemClone)
+  - [MCP for AI Driven Open Source License Compliance](https://github.com/SemClone)
+  - [Project SEMCL.ONE - Open Source SCA](https://github.com/SemClone)
+  - [Using AI Agents for managing SBOM](https://github.com/oscarvalenzuelab/sbom_analysis_using_agentic)
   - [Research around AI, Models, and Supply Chain tooling](https://ovalenzuela.com/)
 
