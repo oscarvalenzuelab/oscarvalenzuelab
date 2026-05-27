@@ -2,8 +2,7 @@
 
 ### Hi there 👋, my name is Oscar, also known as AlKamod.
 
-I'm a Principal Technical Program Manager at Microsoft, working on Compliance in Dev Platform, part of 
-CoreAI. I have over 20 years of experience in open source, compliance, tooling, and community building.
+I work at the intersection of open source engineering and compliance, across security, responsible AI, open source legal, and emerging regulations. I've been at this for over 20 years.
 
 You may know me from my open source compliance work at Amazon as part of the OSPO, my advocacy with FSF LA for Free/Libre Software, or 
 my role as a Yocto Project board member. My background spans software engineering, security, and 
