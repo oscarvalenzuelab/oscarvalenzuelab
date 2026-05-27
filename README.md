@@ -2,12 +2,10 @@
 
 ### Hi there 👋, my name is Oscar, also known as AlKamod.
 
-I'm a Principal Open Source Engineer at Amazon with over 20 years of experience in open source 
-compliance, tooling, and community building. I lead strategy for Amazon's Open Source License Compliance 
-team, scaling compliance processes company-wide while driving adoption of industry standards and best 
-practices.
+I'm a Principal Technical Program Manager at Microsoft, working on Compliance in Dev Platform, part of 
+CoreAI. I have over 20 years of experience in open source, compliance, tooling, and community building.
 
-You may know me from my open source compliance work, my advocacy with FSF LA for Free/Libre Software, or 
+You may know me from my open source compliance work at Amazon as part of the OSPO, my advocacy with FSF LA for Free/Libre Software, or 
 my role as a Yocto Project board member. My background spans software engineering, security, and 
 electronic engineering. The latter gave me deep expertise in compliance for consumer devices and 
 connected me to the GPL compliance community that shaped my career.
