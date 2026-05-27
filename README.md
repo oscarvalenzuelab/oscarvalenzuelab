@@ -2,10 +2,10 @@
 
 ### Hi there 👋, my name is Oscar, also known as AlKamod.
 
-I work at the intersection of open source engineering and compliance, across security, responsible AI, open source legal, and emerging regulations. I've been at this for over 20 years.
+I work at the intersection of open source engineering and compliance, across security, responsible AI, open source legal, and emerging regulations.
 
 You may know me from my open source compliance work, my advocacy with FSF LA for Free/Libre Software, or 
-my role as a Yocto Project board member. My background spans software engineering, security, AI, and 
+my role as a Yocto Project board member. My 20+ year background spans software engineering, security, AI, and 
 electronic engineering. The latter gave me deep expertise in compliance for consumer devices and 
 connected me to the GPL compliance community that shaped my career.
 
